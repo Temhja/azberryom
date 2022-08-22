@@ -122,3 +122,7 @@ body {
   background: url('https://source.unsplash.com/ggZuL3BTSJU/1600x900') no-repeat
     center center/cover;
 }
+.slide:nth-child(7)  {
+    background: url('https://source.unsplash.com/yXpA_eCbtzI/1600x900') no-repeat
+      center center/cover;
+  }
