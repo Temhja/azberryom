@@ -115,11 +115,11 @@ body {
     center top/cover;
 }
 .slide:nth-child(5) {
-  background: url('https://source.unsplash.com/ULmaQh9Gvbg/1600x900') no-repeat
+  background: url('image/2.png') no-repeat
     center top/cover;
 } 
 .slide:nth-child(6)  {
-  background: url('https://source.unsplash.com/ggZuL3BTSJU/1600x900') no-repeat
+  background: url('image/2.jpg') no-repeat
     center center/cover;
 }
 .slide:nth-child(7)  {
