@@ -107,11 +107,11 @@ body {
     center top/cover;
 }
 .slide:nth-child(3) {
-  background: url('https://source.unsplash.com/TMOeGZw9NY4/1600x900') no-repeat
+  background: url('image/2.png') no-repeat
     center top/cover;
 }
 .slide:nth-child(4) {
-  background: url('https://source.unsplash.com/yXpA_eCbtzI/1600x900') no-repeat
+  background: url('image/2.jpg') no-repeat
     center top/cover;
 }
 .slide:nth-child(5) {
